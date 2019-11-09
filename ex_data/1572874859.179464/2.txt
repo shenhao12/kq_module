@@ -1,0 +1,5 @@
+step_size,residual_node_ratio
+5,0.4147
+10,0.1331
+15,0.0436
+20,0.013
